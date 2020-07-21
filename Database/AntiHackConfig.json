@@ -1,0 +1,11 @@
+{
+  "727536491722702919": {
+    "banLimit": "1",
+    "chaDelLimit": 3,
+    "chaCrLimit": 3,
+    "roleDelLimit": 3,
+    "kickLimits": "1",
+    "roleCrLimits": 3,
+    "time": 30
+  }
+}

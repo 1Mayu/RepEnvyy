@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "ytdl-core": "^3.1.2",
+    "pretty-ms": "^7.0.0",
+    "jimp": "^0.14.0",
+    "canvas": "^2.6.1",
+    "moment": "^2.27.0",
+    "simple-youtube-api": "^5.2.1",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
